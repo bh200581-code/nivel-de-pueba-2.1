@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+env/
+
+# Secretos locales (Streamlit usa la nube para esto)
+.streamlit/secrets.toml
+token.json
+credentials.json
+credenciales_drive.json

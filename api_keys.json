@@ -1,0 +1,5 @@
+{
+  "gemini": "TU_API_KEY_DE_GEMINI_AQUI",
+  "openai": "TU_API_KEY_DE_OPENAI_AQUI",
+  "anthropic": "TU_API_KEY_DE_ANTHROPIC_AQUI"
+}

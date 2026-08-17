@@ -1,0 +1,12 @@
+streamlit
+pandas
+python-docx
+pypdf
+openpyxl
+google-generativeai
+openai
+anthropic
+tenacity
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
